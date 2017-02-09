@@ -1,0 +1,28 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "a webpack demo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durianBy/webpack-demo.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "durianBy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durianBy/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/durianBy/webpack-demo#readme",
+  "dependencies": {
+    "jQuery": "^1.7.4"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.0"
+  }
+}
